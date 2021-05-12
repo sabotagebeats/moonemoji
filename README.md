@@ -1,7 +1,5 @@
-# moonemoji
-## 🌙
-
-symbol: MOON
+# moonemoji 🌙
+## symbol: MOON
 
 100,000 hard cap
 

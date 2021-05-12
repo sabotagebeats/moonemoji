@@ -21,3 +21,6 @@ https://bscscan.com/address/0xE5cf3889d780656CF9971b639B340A92A5e45298
 
 Timelock ReleaseTime 1630479600 or Wed Sep 01 2021 07:00:00 GMT+0000
  
+## Disclaimer
+
+This is an experimental protocol use at your own risk. 

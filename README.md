@@ -7,6 +7,11 @@
 
 https://poocoin.app/tokens/0x030c783c61d5b0214c7a7c43ced6b2803c7a75be
 
-TokenTimelock for liquidity tokens deployed here: 0x4aD35CA3c717dbAF940Db37Cda056B7d1D2d25Ed
 
-Liquidity tokens are locked until 1630479600 in unix time which is Wed Sep 01 2021 07:00:00 GMT+0000
+#TokenTimelock
+
+https://bscscan.com/address/0x4ad35ca3c717dbaf940db37cda056b7d1d2d25ed
+
+Timelock ReleaseTime 1630479600 or Wed Sep 01 2021 07:00:00 GMT+0000
+
+

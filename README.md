@@ -24,6 +24,12 @@ Timelock ReleaseTime 1630479600 or Wed Sep 01 2021 07:00:00 GMT+0000
 ## Gnosis safe
 
 https://bscscan.com/address/0xcc50a1a661915bf2097153af7d1666b80b341557
+
+# Community managed social media
+
+Telegram : https://t.me/moonemoji
+
+Twitter : https://mobile.twitter.com/Moonemoji01
  
 ## Disclaimer
 

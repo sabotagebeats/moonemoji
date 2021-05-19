@@ -9,13 +9,13 @@ https://poocoin.app/tokens/0x030c783c61d5b0214c7a7c43ced6b2803c7a75be
 
 contract address: 0x030c783c61d5b0214c7a7c43ced6b2803c7a75be
 
-## LP TokenTimelock
+## LP TokenTimelock - Verified on BSCscan
 
 https://bscscan.com/address/0x4ad35ca3c717dbaf940db37cda056b7d1d2d25ed
 
 Timelock ReleaseTime 1630479600 or Wed Sep 01 2021 07:00:00 GMT+0000
 
-## Developer reward TokenTimelock
+## Developer reward TokenTimelock - Verified on BSCscan
 
 https://bscscan.com/address/0xE5cf3889d780656CF9971b639B340A92A5e45298
 

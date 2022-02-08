@@ -1,4 +1,4 @@
-pragma solidity ^0.5.0;
+pragma solidity ^0.8.0;
 
 import "openzeppelin-contracts/contracts/token/ERC20/SafeERC20.sol";
 
@@ -65,7 +65,7 @@ contract TokenTimelock {
         otherToken.safeTransfer(_beneficiary, amount);
     }
 
-    function() external payable {
+    function() external fallback {
         _beneficiary.transfer(address(this).balance);
     }
 }
